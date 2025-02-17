@@ -13,7 +13,7 @@
   </p>
   <p>
 
-<a href="https://jrozycki2003.github.io" style="text-decoration: none;"> Explore My Projects on GitHub</a>
+<a href="https://github.com/jrozycki2003?tab=repositories" style="text-decoration: none;"> Explore My Projects on GitHub</a>
  
 
 
@@ -51,19 +51,6 @@
 
 
 
-
-
-
-
-
-
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jrozycki2003&show_icons=true&theme=radical">
-  </p>
-</div>
-
 ---
 
 <div align="center">
@@ -74,10 +61,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <h2>GitHub Current Streak</h2>
-  <p align="center">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jrozycki2003&theme=dark">
-  </p>
-</div>
