@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <h2>🛠️ Languages and Tools</h2>
+  <h2>🛠️ Languages and Skills</h2>
   <p align="center">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
@@ -40,10 +40,7 @@
 </div>
 
 <div align="center">
-    <h2>Contact Me 📧📱</h2>
-    <a href="https://www.linkedin.com/in/jakub-różycki-306a28310/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-    </a>
+    <h2>Contact Me 📧</h2>
     <a href="mailto:jrozycki@poczta.fm" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge" alt="Email Banner" />
     </a>
