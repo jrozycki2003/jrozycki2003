@@ -13,7 +13,7 @@
   </p>
   <p>
 
-<a href="https://github.com/jrozycki2003?tab=repositories" style="text-decoration: none;"> Check Out My Projects</a>
+<a href="https://github.com/jrozycki2003?tab=repositories" style="text-decoration: none;"> Explore My Projects</a>
  
 
 
